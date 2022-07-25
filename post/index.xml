@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Learning on Graphs Conference</title>
+    <title>Blog | Molecular ML Conference</title>
     <link>https://logconference.github.io/post/</link>
       <atom:link href="https://logconference.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Announcing the Learning on Graphs Conference</title>
+      <title>Announcing the Molecular ML Conference</title>
       <link>https://logconference.github.io/post/announcement/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://logconference.github.io/post/announcement/</guid>
